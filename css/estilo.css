@@ -1,4 +1,5 @@
-/*HEADER*/
+@charset "UTF-8";
+/*VARIABLE DE FUENTE*/ /*HEADER*/
 body {
   background-color: black;
   color: white;
@@ -58,9 +59,67 @@ body {
   transition: 70ms;
 }
 
-/*LOGROS DE BRONCE*/ /*CARTAS*/
+/*LOGROS DE BRONCE*/
+.logrosBronce {
+  margin-left: 20px;
+}
+.logrosBronce img {
+  width: 150px;
+}
+.logrosBronce h3 {
+  font-family: "Russo One", sans-serif;
+  font-size: 150%;
+}
+.logrosBronce p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+/*CARTAS*/
 .cartas img {
-  width: 350px;
+  width: 300px;
+}
+.cartas h3, .cartas h4, .cartas h5 {
+  font-family: "Russo One", sans-serif;
+}
+.cartas p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.botonGuía {
+  border: solid;
+  border-radius: 10px;
+  background: rgb(128, 9, 9);
+  background: linear-gradient(90deg, rgb(128, 9, 9) 0%, rgb(19, 26, 110) 100%);
+  transition: 70ms;
+  width: 40%;
+}
+.botonGuía a {
+  text-decoration: none;
+  font-family: "Russo One", sans-serif;
+  color: white;
+}
+.botonGuía:hover {
+  width: 50%;
+  transition: 70ms;
+}
+
+h2 {
+  font-family: "Russo One", sans-serif;
+  margin-left: 5px;
+}
+
+.parrafoSuperior {
+  margin-left: 10px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.parrafoSuperior a {
+  text-decoration: none;
+}
+.parrafoSuperior strong {
+  color: bisque;
+}
+.parrafoSuperior strong:visited {
+  color: beige;
 }
 
 /*# sourceMappingURL=estilo.css.map */

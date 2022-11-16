@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/*VARIABLE DE FUENTE*/ /*HEADER*/
+/*HEADER*/
 body {
   background-color: black;
   color: white;
@@ -57,6 +57,13 @@ body {
 .footer a:hover {
   font-size: 115%;
   transition: 70ms;
+}
+
+/*TITULOS*/
+.bronce {
+  margin-left: 20px;
+  font-family: "Russo One", sans-serif;
+  color: #a7501d;
 }
 
 /*LOGROS DE BRONCE*/

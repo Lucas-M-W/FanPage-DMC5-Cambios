@@ -66,6 +66,24 @@ body {
   color: #a7501d;
 }
 
+.plata {
+  margin-left: 20px;
+  font-family: "Russo One", sans-serif;
+  color: #c0c0c0;
+}
+
+.oro {
+  margin-left: 20px;
+  font-family: "Russo One", sans-serif;
+  color: #CC9900;
+}
+
+.platino {
+  margin-left: 20px;
+  font-family: "Russo One", sans-serif;
+  color: #97AAC0;
+}
+
 /*LOGROS DE BRONCE*/
 .logrosBronce {
   margin-left: 20px;
@@ -78,6 +96,50 @@ body {
   font-size: 150%;
 }
 .logrosBronce p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+/*LOGROS DE PLATA*/
+.logrosPlata {
+  margin-left: 20px;
+}
+.logrosPlata img {
+  width: 150px;
+}
+.logrosPlata h3 {
+  font-family: "Russo One", sans-serif;
+  font-size: 150%;
+}
+.logrosPlata p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+/*LOGROS DE ORO*/
+.logrosOro {
+  margin-left: 20px;
+}
+.logrosOro img {
+  width: 150px;
+}
+.logrosOro h3 {
+  font-family: "Russo One", sans-serif;
+  font-size: 150%;
+}
+.logrosOro p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+/*PLATINO*/
+.logrosPlatino {
+  margin-left: 20px;
+}
+.logrosPlatino img {
+  width: 150px;
+}
+.logrosPlatino h3 {
+  font-family: "Russo One", sans-serif;
+}
+.logrosPlatino p {
   font-family: "Roboto Condensed", sans-serif;
 }
 

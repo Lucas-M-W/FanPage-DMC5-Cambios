@@ -172,6 +172,21 @@ body {
   transition: 70ms;
 }
 
+/*MISIONES SECRETAS*/
+.misionesSecretas {
+  margin-left: 20px;
+}
+.misionesSecretas img {
+  width: 150px;
+}
+.misionesSecretas h3 {
+  font-family: "Russo One", sans-serif;
+  font-size: 150%;
+}
+.misionesSecretas p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
 h2 {
   font-family: "Russo One", sans-serif;
   margin-left: 5px;

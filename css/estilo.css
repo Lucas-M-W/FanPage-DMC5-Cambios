@@ -174,10 +174,10 @@ body {
 
 /*MISIONES SECRETAS*/
 .misionesSecretas {
-  margin-left: 20px;
+  margin-left: 5px;
 }
 .misionesSecretas img {
-  width: 150px;
+  width: 600px;
 }
 .misionesSecretas h3 {
   font-family: "Russo One", sans-serif;
@@ -185,6 +185,9 @@ body {
 }
 .misionesSecretas p {
   font-family: "Roboto Condensed", sans-serif;
+}
+.misionesSecretas strong {
+  color: bisque;
 }
 
 h2 {

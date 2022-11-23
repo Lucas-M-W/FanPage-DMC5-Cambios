@@ -1,8 +1,8 @@
 /*MISIONES SECRETAS*/
 .misionesSecretas {
-    margin-left: 20px;
+    margin-left: 5px;
     img {
-        width: 150px;
+        width: 600px;
     }
     h3 {
         font-family: $fuenteTitulos;
@@ -10,6 +10,9 @@
     }
     p {
         font-family: $fuenteGeneral;
+    }
+    strong {
+        color: bisque;
     }
     
 }

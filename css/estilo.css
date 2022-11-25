@@ -190,6 +190,17 @@ body {
   color: bisque;
 }
 
+/*TERMINOS Y CONDICIONES - PRIVACY POLICY*/
+.termsPrivacy {
+  margin-left: 5px;
+}
+.termsPrivacy p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.termsPrivacy a {
+  text-decoration: none;
+}
+
 h2 {
   font-family: "Russo One", sans-serif;
   margin-left: 5px;

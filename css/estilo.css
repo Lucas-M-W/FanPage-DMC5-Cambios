@@ -177,7 +177,7 @@ body {
   margin-left: 5px;
 }
 .misionesSecretas img {
-  width: 600px;
+  width: 60%;
 }
 .misionesSecretas h3 {
   font-family: "Russo One", sans-serif;
@@ -213,6 +213,9 @@ h2, h3 {
 .armasNero .redqueen {
   width: 100px;
 }
+.armasNero p {
+  font-family: "Roboto Condensed", sans-serif;
+}
 .armasNero img {
   width: 280px;
 }
@@ -223,10 +226,40 @@ h2, h3 {
 .armasDante .redqueen {
   width: 100px;
 }
+.armasDante p {
+  font-family: "Roboto Condensed", sans-serif;
+}
 .armasDante img {
   width: 280px;
 }
 
+.armasV {
+  padding-left: 5px;
+}
+.armasV .redqueen {
+  width: 100px;
+}
+.armasV p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.armasV img {
+  width: 280px;
+}
+
+.armasVergil {
+  padding-left: 5px;
+}
+.armasVergil .redqueen {
+  width: 100px;
+}
+.armasVergil p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.armasVergil img {
+  width: 280px;
+}
+
+/* GUÍA DE DANTE */
 h2 {
   font-family: "Russo One", sans-serif;
   margin-left: 5px;

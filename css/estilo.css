@@ -260,6 +260,45 @@ h2, h3 {
 }
 
 /* GUÍA DE DANTE */
+.habilidades {
+  padding-left: 10px;
+}
+.habilidades p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidades li {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidades a {
+  text-decoration: none;
+}
+.habilidades strong {
+  color: #b22423;
+}
+.habilidades h4 {
+  font-family: "Russo One", sans-serif;
+}
+
+/* GUÍA DE NERO */
+.habilidadesNero {
+  padding-left: 10px;
+}
+.habilidadesNero p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidadesNero li {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidadesNero a {
+  text-decoration: none;
+}
+.habilidadesNero strong {
+  color: #3d8eb2;
+}
+.habilidadesNero h4 {
+  font-family: "Russo One", sans-serif;
+}
+
 h2 {
   font-family: "Russo One", sans-serif;
   margin-left: 5px;

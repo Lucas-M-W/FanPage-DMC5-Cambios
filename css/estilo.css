@@ -220,11 +220,18 @@ h2, h3 {
   width: 280px;
 }
 
+/*ARMAS DE DANTE*/
 .armasDante {
   padding-left: 5px;
 }
-.armasDante .redqueen {
-  width: 100px;
+.armasDante .espadas {
+  width: 150px;
+}
+.armasDante .kingCerberus {
+  width: 150px;
+}
+.armasDante .pistolas {
+  width: 180px;
 }
 .armasDante p {
   font-family: "Roboto Condensed", sans-serif;
@@ -233,11 +240,12 @@ h2, h3 {
   width: 280px;
 }
 
+/*ARMAS DE V*/
 .armasV {
   padding-left: 5px;
 }
-.armasV .redqueen {
-  width: 100px;
+.armasV .baston {
+  width: 200px;
 }
 .armasV p {
   font-family: "Roboto Condensed", sans-serif;
@@ -246,11 +254,12 @@ h2, h3 {
   width: 280px;
 }
 
+/*ARMAS DE VERGIL*/
 .armasVergil {
   padding-left: 5px;
 }
-.armasVergil .redqueen {
-  width: 100px;
+.armasVergil .mirageEdge {
+  width: 200px;
 }
 .armasVergil p {
   font-family: "Roboto Condensed", sans-serif;
@@ -278,6 +287,15 @@ h2, h3 {
 .habilidades h4 {
   font-family: "Russo One", sans-serif;
 }
+.habilidades iframe {
+  border: solid;
+  border-radius: 10px;
+}
+
+iframe {
+  border: solid;
+  border-radius: 10px;
+}
 
 /* GUÍA DE NERO */
 .habilidadesNero {
@@ -298,6 +316,15 @@ h2, h3 {
 .habilidadesNero h4 {
   font-family: "Russo One", sans-serif;
 }
+.habilidadesNero iframe {
+  border: solid;
+  border-radius: 10px;
+}
+
+iframe {
+  border: solid;
+  border-radius: 10px;
+}
 
 /* GUÍA DE V */
 .habilidadesV {
@@ -317,6 +344,44 @@ h2, h3 {
 }
 .habilidadesV h4 {
   font-family: "Russo One", sans-serif;
+}
+.habilidadesV iframe {
+  border: solid;
+  border-radius: 10px;
+}
+
+iframe {
+  border: solid;
+  border-radius: 10px;
+}
+
+/*GUÍA DE VERGIL*/
+.habilidadesVergil {
+  padding-left: 10px;
+}
+.habilidadesVergil p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidadesVergil li {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidadesVergil a {
+  text-decoration: none;
+}
+.habilidadesVergil strong {
+  color: #0f36b8;
+}
+.habilidadesVergil h4 {
+  font-family: "Russo One", sans-serif;
+}
+.habilidadesVergil iframe {
+  border: solid;
+  border-radius: 10px;
+}
+
+iframe {
+  border: solid;
+  border-radius: 10px;
 }
 
 h2 {

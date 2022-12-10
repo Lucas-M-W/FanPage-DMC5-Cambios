@@ -19,11 +19,21 @@ h2, h3 {
         width: 280px;
     }
 }
+
+/*ARMAS DE DANTE*/
 .armasDante {
     padding-left: 5px;
 
-    .redqueen {
-        width: 100px;
+    .espadas {
+        width: 150px;
+    }
+
+    .kingCerberus {
+        width: 150px;
+    }
+
+    .pistolas {
+        width: 180px;
     }
 
     p {
@@ -34,11 +44,13 @@ h2, h3 {
         width: 280px;
     }
 }
+
+/*ARMAS DE V*/
 .armasV {
     padding-left: 5px;
 
-    .redqueen {
-        width: 100px;
+    .baston {
+        width: 200px;
     }
 
     p {
@@ -49,11 +61,13 @@ h2, h3 {
         width: 280px;
     }
 }
+
+/*ARMAS DE VERGIL*/
 .armasVergil {
     padding-left: 5px;
 
-    .redqueen {
-        width: 100px;
+    .mirageEdge {
+        width: 200px;
     }
 
     p {

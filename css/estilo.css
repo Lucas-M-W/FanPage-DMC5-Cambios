@@ -299,6 +299,26 @@ h2, h3 {
   font-family: "Russo One", sans-serif;
 }
 
+/* GUÍA DE V */
+.habilidadesV {
+  padding-left: 10px;
+}
+.habilidadesV p {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidadesV li {
+  font-family: "Roboto Condensed", sans-serif;
+}
+.habilidadesV a {
+  text-decoration: none;
+}
+.habilidadesV strong {
+  color: #6710ea;
+}
+.habilidadesV h4 {
+  font-family: "Russo One", sans-serif;
+}
+
 h2 {
   font-family: "Russo One", sans-serif;
   margin-left: 5px;

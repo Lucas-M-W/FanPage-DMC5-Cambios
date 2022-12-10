@@ -211,7 +211,8 @@ h2, h3 {
   padding-left: 5px;
 }
 .armasNero .redqueen {
-  width: 100px;
+  width: 130px;
+  padding-left: 30px;
 }
 .armasNero p {
   font-family: "Roboto Condensed", sans-serif;
@@ -225,7 +226,8 @@ h2, h3 {
   padding-left: 5px;
 }
 .armasDante .espadas {
-  width: 150px;
+  width: 170px;
+  padding-left: 30px;
 }
 .armasDante .kingCerberus {
   width: 150px;
